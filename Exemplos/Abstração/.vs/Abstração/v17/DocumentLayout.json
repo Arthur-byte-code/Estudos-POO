@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|c:\\users\\raul\\desktop\\poo c#\\exemplos\\abstra\u00E7\u00E3o\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|solutionrelative:pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|c:\\users\\raul\\desktop\\poo c#\\exemplos\\abstra\u00E7\u00E3o\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|solutionrelative:pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|c:\\users\\raul\\desktop\\poo c#\\exemplos\\abstra\u00E7\u00E3o\\padrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|solutionrelative:padrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|c:\\users\\raul\\desktop\\poo c#\\exemplos\\abstra\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B4313-6181-4AA7-AE77-5BB060D54C61}|Abstra\u00E7\u00E3o.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\PessoaFisica.cs",
+              "RelativeToolTip": "PessoaFisica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:34:15.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Padrao.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\Padrao.cs",
+              "RelativeDocumentMoniker": "Padrao.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\Padrao.cs",
+              "RelativeToolTip": "Padrao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:10:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:03:07.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exemplos\\Abstra\u00E7\u00E3o\\PessoaJuridica.cs",
+              "RelativeToolTip": "PessoaJuridica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:34:51.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

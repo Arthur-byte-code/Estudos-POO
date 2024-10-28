@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDciointerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDciointerface\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|solutionrelative:moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDciointerface\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|solutionrelative:carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDciointerface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED02BB-FF4A-4FFC-A012-C3B94D469E37}|Exerc\u00EDcioInterface.csproj|solutionrelative:interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Moto.cs",
+              "RelativeDocumentMoniker": "Moto.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Moto.cs",
+              "RelativeToolTip": "Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:54:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Carro.cs",
+              "RelativeDocumentMoniker": "Carro.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Carro.cs",
+              "RelativeToolTip": "Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:46:47.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Interface.cs",
+              "RelativeDocumentMoniker": "Interface.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Interface.cs",
+              "RelativeToolTip": "Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:44:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:42:50.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

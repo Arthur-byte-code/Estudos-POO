@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\bin\Debug\net8.0\ExercícioInterface.exe
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\bin\Debug\net8.0\ExercícioInterface.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\bin\Debug\net8.0\ExercícioInterface.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\bin\Debug\net8.0\ExercícioInterface.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\bin\Debug\net8.0\ExercícioInterface.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ExercícioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ExercícioInterface.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ExercícioInterface.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ExercícioInterface.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ExercícioInterface.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\refint\ExercícioInterface.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ExercícioInterface.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ExercícioInterface.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioInterface\obj\Debug\net8.0\ref\ExercícioInterface.dll

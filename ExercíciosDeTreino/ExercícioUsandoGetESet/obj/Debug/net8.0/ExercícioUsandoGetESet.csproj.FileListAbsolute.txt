@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\bin\Debug\net8.0\ExercícioUsandoGetESet.exe
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\bin\Debug\net8.0\ExercícioUsandoGetESet.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\bin\Debug\net8.0\ExercícioUsandoGetESet.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\bin\Debug\net8.0\ExercícioUsandoGetESet.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\bin\Debug\net8.0\ExercícioUsandoGetESet.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ExercícioUsandoGetESet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ExercícioUsandoGetESet.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ExercícioUsandoGetESet.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ExercícioUsandoGetESet.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ExercícioUsandoGetESet.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\refint\ExercícioUsandoGetESet.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ExercícioUsandoGetESet.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ExercícioUsandoGetESet.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoGetESet\obj\Debug\net8.0\ref\ExercícioUsandoGetESet.dll

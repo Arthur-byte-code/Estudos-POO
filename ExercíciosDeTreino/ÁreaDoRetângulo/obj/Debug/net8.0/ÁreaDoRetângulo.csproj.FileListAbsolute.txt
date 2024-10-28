@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\bin\Debug\net8.0\ÁreaDoRetângulo.exe
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\bin\Debug\net8.0\ÁreaDoRetângulo.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\bin\Debug\net8.0\ÁreaDoRetângulo.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\bin\Debug\net8.0\ÁreaDoRetângulo.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\bin\Debug\net8.0\ÁreaDoRetângulo.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ÁreaDoRetângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ÁreaDoRetângulo.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ÁreaDoRetângulo.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ÁreaDoRetângulo.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ÁreaDoRetângulo.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\refint\ÁreaDoRetângulo.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ÁreaDoRetângulo.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ÁreaDoRetângulo.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ÁreaDoRetângulo\obj\Debug\net8.0\ref\ÁreaDoRetângulo.dll

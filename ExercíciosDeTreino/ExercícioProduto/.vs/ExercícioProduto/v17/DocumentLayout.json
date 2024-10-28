@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE5DB31-E786-4736-8DF0-A866DC16DC78}|Exerc\u00EDcioProduto.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDcioproduto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE5DB31-E786-4736-8DF0-A866DC16DC78}|Exerc\u00EDcioProduto.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE5DB31-E786-4736-8DF0-A866DC16DC78}|Exerc\u00EDcioProduto.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDcioproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE5DB31-E786-4736-8DF0-A866DC16DC78}|Exerc\u00EDcioProduto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioProduto\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioProduto\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:45:56.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioProduto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDcioProduto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:45:13.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

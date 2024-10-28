@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\bin\Debug\net8.0\ExercíciosImóvies.exe
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\bin\Debug\net8.0\ExercíciosImóvies.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\bin\Debug\net8.0\ExercíciosImóvies.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\bin\Debug\net8.0\ExercíciosImóvies.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\bin\Debug\net8.0\ExercíciosImóvies.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ExercíciosImóvies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ExercíciosImóvies.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ExercíciosImóvies.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ExercíciosImóvies.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ExercíciosImóvies.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\refint\ExercíciosImóvies.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ExercíciosImóvies.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ExercíciosImóvies.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercíciosImóvies\obj\Debug\net8.0\ref\ExercíciosImóvies.dll

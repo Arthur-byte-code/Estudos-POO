@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDciosIm\u00F3vies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D44801-5F11-415F-912A-109F8543CF4B}|Exerc\u00EDciosIm\u00F3vies.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDciosim\u00F3vies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D44801-5F11-415F-912A-109F8543CF4B}|Exerc\u00EDciosIm\u00F3vies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D44801-5F11-415F-912A-109F8543CF4B}|Exerc\u00EDciosIm\u00F3vies.csproj|c:\\users\\raul\\desktop\\poo c#\\exerc\u00EDciosdetreino\\exerc\u00EDciosim\u00F3vies\\corretoradeim\u00F3veis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D44801-5F11-415F-912A-109F8543CF4B}|Exerc\u00EDciosIm\u00F3vies.csproj|solutionrelative:corretoradeim\u00F3veis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorretoraDeIm\u00F3veis.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDciosIm\u00F3vies\\CorretoraDeIm\u00F3veis.cs",
+              "RelativeDocumentMoniker": "CorretoraDeIm\u00F3veis.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDciosIm\u00F3vies\\CorretoraDeIm\u00F3veis.cs",
+              "RelativeToolTip": "CorretoraDeIm\u00F3veis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:42:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDciosIm\u00F3vies\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RAUL\\Desktop\\poo c#\\Exerc\u00EDciosDeTreino\\Exerc\u00EDciosIm\u00F3vies\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:40:31.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

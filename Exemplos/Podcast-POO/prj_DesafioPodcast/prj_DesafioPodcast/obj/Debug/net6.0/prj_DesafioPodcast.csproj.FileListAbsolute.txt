@@ -1,0 +1,84 @@
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.exe
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.deps.json
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.runtimeconfig.json
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.dll
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.pdb
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfoInputs.cache
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfo.cs
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.dll
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\refint\prj_DesafioPodcast.dll
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.pdb
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.genruntimeconfig.cache
+C:\Users\Professor\source\repos\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\ref\prj_DesafioPodcast.dll
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.exe
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.deps.json
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.runtimeconfig.json
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.dll
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.pdb
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfoInputs.cache
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfo.cs
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.csproj.CoreCompileInputs.cache
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.dll
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\refint\prj_DesafioPodcast.dll
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.pdb
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.genruntimeconfig.cache
+D:\PC-Professor\DS1\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\ref\prj_DesafioPodcast.dll
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.exe
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.deps.json
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.runtimeconfig.json
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.dll
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.pdb
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfo.cs
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.dll
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\refint\prj_DesafioPodcast.dll
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.pdb
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.genruntimeconfig.cache
+C:\Users\Professor\Desktop\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\ref\prj_DesafioPodcast.dll
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.exe
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.deps.json
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.runtimeconfig.json
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.dll
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.pdb
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfoInputs.cache
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfo.cs
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.csproj.CoreCompileInputs.cache
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.dll
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\refint\prj_DesafioPodcast.dll
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.pdb
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.genruntimeconfig.cache
+E:\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\ref\prj_DesafioPodcast.dll
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.exe
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.deps.json
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.runtimeconfig.json
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.dll
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.pdb
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfoInputs.cache
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfo.cs
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.csproj.CoreCompileInputs.cache
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.dll
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\refint\prj_DesafioPodcast.dll
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.pdb
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.genruntimeconfig.cache
+E:\Nova pasta\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\ref\prj_DesafioPodcast.dll
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.exe
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.deps.json
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.dll
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\bin\Debug\net6.0\prj_DesafioPodcast.pdb
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.dll
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\refint\prj_DesafioPodcast.dll
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.pdb
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\prj_DesafioPodcast.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\Podcast-POO\prj_DesafioPodcast\prj_DesafioPodcast\obj\Debug\net6.0\ref\prj_DesafioPodcast.dll

@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\bin\Debug\net8.0\ExercícioCadastroCliente.exe
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\bin\Debug\net8.0\ExercícioCadastroCliente.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\bin\Debug\net8.0\ExercícioCadastroCliente.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\bin\Debug\net8.0\ExercícioCadastroCliente.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\bin\Debug\net8.0\ExercícioCadastroCliente.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ExercícioCadastroCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ExercícioCadastroCliente.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ExercícioCadastroCliente.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ExercícioCadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ExercícioCadastroCliente.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\refint\ExercícioCadastroCliente.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ExercícioCadastroCliente.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ExercícioCadastroCliente.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioCadastroCliente\obj\Debug\net8.0\ref\ExercícioCadastroCliente.dll

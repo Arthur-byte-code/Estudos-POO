@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ExercícioUsandoHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ExercícioUsandoHerança.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ExercícioUsandoHerança.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ExercícioUsandoHerança.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\bin\Debug\net8.0\ExercícioUsandoHerança.exe
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\bin\Debug\net8.0\ExercícioUsandoHerança.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\bin\Debug\net8.0\ExercícioUsandoHerança.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\bin\Debug\net8.0\ExercícioUsandoHerança.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\bin\Debug\net8.0\ExercícioUsandoHerança.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ExercícioUsandoHerança.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\refint\ExercícioUsandoHerança.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ExercícioUsandoHerança.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ExercícioUsandoHerança.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioUsandoHerança\obj\Debug\net8.0\ref\ExercícioUsandoHerança.dll

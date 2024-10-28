@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\bin\Debug\net8.0\MétodosEAtributosEstático.exe
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\bin\Debug\net8.0\MétodosEAtributosEstático.deps.json
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\bin\Debug\net8.0\MétodosEAtributosEstático.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\bin\Debug\net8.0\MétodosEAtributosEstático.dll
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\bin\Debug\net8.0\MétodosEAtributosEstático.pdb
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\MétodosEAtributosEstático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\MétodosEAtributosEstático.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\MétodosEAtributosEstático.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\MétodosEAtributosEstático.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\MétodosEAtributosEstático.dll
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\refint\MétodosEAtributosEstático.dll
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\MétodosEAtributosEstático.pdb
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\MétodosEAtributosEstático.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\MétodoEstático\obj\Debug\net8.0\ref\MétodosEAtributosEstático.dll

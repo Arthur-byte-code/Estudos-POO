@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ExercicioImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ExercicioImc.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ExercicioImc.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ExercicioImc.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\bin\Debug\net8.0\ExercicioImc.exe
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\bin\Debug\net8.0\ExercicioImc.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\bin\Debug\net8.0\ExercicioImc.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\bin\Debug\net8.0\ExercicioImc.dll
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\bin\Debug\net8.0\ExercicioImc.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ExercicioImc.dll
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\refint\ExercicioImc.dll
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ExercicioImc.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ExercicioImc.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercicioImc\obj\Debug\net8.0\ref\ExercicioImc.dll

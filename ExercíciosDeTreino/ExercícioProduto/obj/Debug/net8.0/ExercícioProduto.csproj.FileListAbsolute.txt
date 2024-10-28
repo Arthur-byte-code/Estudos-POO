@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\bin\Debug\net8.0\ExercícioProduto.exe
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\bin\Debug\net8.0\ExercícioProduto.deps.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\bin\Debug\net8.0\ExercícioProduto.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\bin\Debug\net8.0\ExercícioProduto.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\bin\Debug\net8.0\ExercícioProduto.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ExercícioProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ExercícioProduto.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ExercícioProduto.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ExercícioProduto.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ExercícioProduto.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\refint\ExercícioProduto.dll
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ExercícioProduto.pdb
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ExercícioProduto.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\ExercíciosDeTreino\ExercícioProduto\obj\Debug\net8.0\ref\ExercícioProduto.dll

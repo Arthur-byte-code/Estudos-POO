@@ -1,0 +1,14 @@
+C:\Users\RAUL\Desktop\poo c#\Set&Get\bin\Debug\net8.0\Set&Get.exe
+C:\Users\RAUL\Desktop\poo c#\Set&Get\bin\Debug\net8.0\Set&Get.deps.json
+C:\Users\RAUL\Desktop\poo c#\Set&Get\bin\Debug\net8.0\Set&Get.runtimeconfig.json
+C:\Users\RAUL\Desktop\poo c#\Set&Get\bin\Debug\net8.0\Set&Get.dll
+C:\Users\RAUL\Desktop\poo c#\Set&Get\bin\Debug\net8.0\Set&Get.pdb
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\Set&Get.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\Set&Get.AssemblyInfoInputs.cache
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\Set&Get.AssemblyInfo.cs
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\Set&Get.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\Set&Get.dll
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\refint\Set&Get.dll
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\Set&Get.pdb
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\Set&Get.genruntimeconfig.cache
+C:\Users\RAUL\Desktop\poo c#\Set&Get\obj\Debug\net8.0\ref\Set&Get.dll
